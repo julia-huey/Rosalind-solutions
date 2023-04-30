@@ -5,4 +5,4 @@ baby's first repository + my solutions to [Rosalind](https://rosalind.info/probl
 
 #Completed exercises
 
-Conting DNA Nucleotides [[info](https://rosalind.info/problems/dna/)]
+Counting DNA Nucleotides [[info](https://rosalind.info/problems/dna/)]
